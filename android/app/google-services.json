@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239479649632",
+    "project_id": "projectkos-87224",
+    "storage_bucket": "projectkos-87224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239479649632:android:8d45478bc08dbab1645a05",
+        "android_client_info": {
+          "package_name": "com.example.learningkos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239479649632-6b72r1m0lpldvobmmake7ba7g7mc6vv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXH63qa05n9jb1KTDl2fMylOOAlDbeH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239479649632-6b72r1m0lpldvobmmake7ba7g7mc6vv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
